@@ -1,1 +1,1 @@
-![Design preview for the Web Component](./img/layout.jpg)
+![Design preview for the Web Component](./img/layout.png)
